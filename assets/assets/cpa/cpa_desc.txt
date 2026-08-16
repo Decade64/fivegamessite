@@ -1,0 +1,1 @@
+Capybara pocket adventure is a mobile game where players score to earn coins to unlock games where you play as a capybara. You can also optionally watch ads for a once per run revive or to earn coins you would normally earn scoring

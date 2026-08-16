@@ -1,0 +1,1 @@
+Frame Sense Trainer is a program that teaches you how to count frames, assuming a form of media is playing at 60fps, useful for fighting game development and pro players of fighting games
